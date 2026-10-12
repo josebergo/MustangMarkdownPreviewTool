@@ -1,5 +1,9 @@
 # Mustang Markdown Preview Tool
 
+<p align="center">
+  <img src="app/src/main/res/drawable-nodpi/ic_launcher_art.png" alt="MustangMDView horse and book symbol" width="180">
+</p>
+
 MustangMDView is an Android Markdown reader built with Kotlin and Jetpack Compose. Import documents into a persistent bookshelf, scan a folder you authorize, and tap a title to open a full-screen preview.
 
 ## Download
@@ -124,4 +128,4 @@ third_party/                Third-party license texts
 
 ## License
 
-See [LICENSE](LICENSE) for the project license and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for third-party attribution and license details.
+See [LICENSE](LICENSE) for the project license. Third-party license texts are included in [third_party/](third_party/).

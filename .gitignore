@@ -10,6 +10,7 @@ local.properties
 /design.md
 /design-qa.md
 /artifacts/
+/THIRD_PARTY_NOTICES.md
 
 # Generated packages, logs, and signing credentials
 *.apk
