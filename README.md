@@ -2,6 +2,12 @@
 
 MustangMDView is an Android Markdown reader built with Kotlin and Jetpack Compose. Import documents into a persistent bookshelf, scan a folder you authorize, and tap a title to open a full-screen preview.
 
+## Download
+
+Download the signed APK from the [latest release](https://github.com/josebergo/MustangMarkdownPreviewTool/releases/latest), or [download version 1.0.0 directly](https://github.com/josebergo/MustangMarkdownPreviewTool/releases/download/v1.0.0/MustangMDView-1.0.0.apk).
+
+Requires Android 8.0 or later. Open the APK on your device and allow installation from your browser or file manager when Android prompts you.
+
 ## Features
 
 - CommonMark rendering with tables, task lists, strikethrough, and automatic links.
