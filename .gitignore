@@ -1,0 +1,19 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+.superpowers/
+
+# Local planning and verification artifacts
+/plan.md
+/design.md
+/design-qa.md
+/artifacts/
+
+# Generated packages, logs, and signing credentials
+*.apk
+*.aab
+*.log
+*.jks
+*.keystore
